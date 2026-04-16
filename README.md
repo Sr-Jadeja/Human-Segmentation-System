@@ -17,7 +17,7 @@ Human_Segmentation_System/
 ├── notebooks/
 │   └── Train_colab.ipynb   # Colab training notebook (GPU)
 ├── weights/
-│   └── model.keras     # Trained model (place here after Colab training)
+│   └── model.keras     # Trained model
 ├── assets/             # Sample test images
 ├── app.py              # Streamlit web app
 └── requirements.txt
